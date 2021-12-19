@@ -1,0 +1,22 @@
+Script started on 2021-12-19 13:43:00+00:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="209" LINES="52"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ mkdir folder1
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ mkdir foledr   der2
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ touchtouch file1.txt file1.txt  file1.txt  file1.txt  file1.txt  file1.txt 
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ touch file2.txt
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ touch file3.txt
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ mv file1.txt folder1
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ mv file2.txt foledr   der2
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ cd foleder1      lder1
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison/folder1$ ls
+file1.txt
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison/folder1$ cd  pwd
+/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison/folder1
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison/folder1$ cd ..
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ rm file3.txt
+jackie@DESKTOP-OGH60EG:/mnt/c/Users/User/unit-01-command-line-and-git-assessment-JMMison$ exit
+exit
+
+Script done on 2021-12-19 13:49:50+00:00 [COMMAND_EXIT_CODE="0"]
